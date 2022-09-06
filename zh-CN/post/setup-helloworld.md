@@ -29,7 +29,7 @@ categories = [
 
 2. 在Github上创建仓库。
 
-   ![单击创建仓库按钮](//jasmine617.github.io/post/images/20211123001.png)
+   ![单击创建仓库按钮](//jasmine617.github.io/blog-src/zh-CN/post/images/20211123001.png)
 
    
 
@@ -37,7 +37,7 @@ categories = [
 
    例如：jasmine617.github.io
 
-   ![创建仓库](//jasmine617.github.io/post/images/20211123002.png)
+   ![创建仓库](//jasmine617.github.io/blog-src/zh-CN/post/images/20211123002.png)
 
    
 
@@ -74,10 +74,10 @@ categories = [
    
    2. 再将公钥内容配置到GitHub中。
    
-      ![创建SSH密钥](//jasmine617.github.io/post/images/20211123003.png)
+      ![创建SSH密钥](//jasmine617.github.io/blog-src/zh-CN/post/images/20211123003.png)
       
 
-      ![配置密钥](//jasmine617.github.io/post/images/20211123004.png)
+      ![配置密钥](//jasmine617.github.io/blog-src/zh-CN/post/images/20211123004.png)
    
    
    
@@ -85,7 +85,7 @@ categories = [
 
    1. 先在GitHub上获取仓库地址：
    
-      ![获取仓库URL](//jasmine617.github.io/post/images/20211123005.png)
+      ![获取仓库URL](//jasmine617.github.io/blog-src/zh-CN/post/images/20211123005.png)
 
       
 
@@ -170,17 +170,17 @@ categories = [
 
    1. 首先在GitHub仓库中检查index.html文件是否已经存在。
 
-      ![检查上传结果](//jasmine617.github.io/post/images/20211123006.png	"检查上传结果")
+      ![检查上传结果](//jasmine617.github.io/blog-src/zh-CN/post/images/20211123006.png	"检查上传结果")
    
 
    2. 再检查Pages设置是否正确。本例中index.html是上传仓库根目录下的，所以这里设置为root并保存。
 
-      ![页面设置](//jasmine617.github.io/post/images/20211123007.png	"页面设置")
+      ![页面设置](//jasmine617.github.io/blog-src/zh-CN/post/images/20211123007.png	"页面设置")
    
    
    3. 打开GitHub Pages页面，如图显示则说明整个配置成功。
 
-      ![创建结果](//jasmine617.github.io/post/images/20211123008.png	"创建结果")
+      ![创建结果](//jasmine617.github.io/blog-src/zh-CN/post/images/20211123008.png	"创建结果")
 
    
 
